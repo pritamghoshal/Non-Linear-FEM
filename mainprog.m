@@ -1,5 +1,4 @@
-%%The very first code on NFEM,class 1
-%Understanding Non Linear Deformation through truss example
+
 clear all,clc
 a=10;b=5;%parameters
 Fo=-1;%force acting @hinge 2
